@@ -29,6 +29,7 @@ void non_max_supp(short *mag, short *gradx, short *grady, int nrows, int ncols,
 int main(int argc, char *argv[])
 {
    printf("********************************************************\n");
+   printf("********************************************************\n");
    printf("********************* CANNY SERIAL *********************\n");
    printf("********************************************************\n");
    char *infilename = NULL;  /* Name of the input image */
